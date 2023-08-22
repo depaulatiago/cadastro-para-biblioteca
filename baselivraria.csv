@@ -1,0 +1,102 @@
+#Nome do livro,páginas,departamento,preço,autor,editora,quantidade do livro,volume,descrição.
+100
+A Cantiga dos Pássaros e das Serpentes,408,Misterio,47.90,Fiodor Dostoievski,Vitrola Editora,10,0,Livro novo com capa comum.
+A Coroa,434,Fantasia,39.80,Sarah J. Maas,Galera,12,1,Livro novo com capa comum.
+A Culpa é das Estrelas,658,Fantasia,46.99,Sarah J. Maas,Galera,15,2,Livro novo com capa comum.
+A Divina Comédia,686,Fantasia,64.99,Sarah J. Maas,Galera,8,3,Livro novo com capa dura.
+A Elite,714,Fantasia,50.30,Sarah J. Maas,Galera,14,4,Livro novo com capa comum.
+A Escolha,888,Gastronomia,126.75,Massimo Montanari,Esta��o Liberdade,4,0,Livro novo com capa dura.
+A Esperança,256,Romance,28.00,Machado de Assis,Martin Claret,20,0,Livro novo com capa comum.
+A Hora da Estrela,208,Fantasia,34.90,J.K. Rowling,Rocco,10,1,Livro novo com capa dura.
+A Letra Escarlate,224,Fantasia,31.50,J.K. Rowling,Rocco,16,2,Livro novo com capa dura.
+A Menina que Roubava Livros,288,Fantasia,34.99,J.K. Rowling,Rocco,12,3,Livro novo com capa dura.
+A Metamorfose,480,Fantasia,46.99,J.K. Rowling,Rocco,8,4,Livro novo com capa dura.
+A Montanha Mágica,640,Fantasia,60.99,J.K. Rowling,Rocco,18,5,Livro novo com capa dura.
+A Origem das Espécies,432,Fantasia,34.99,J.K. Rowling,Rocco,14,6,Livro novo com capa dura.
+A Revolução dos Bichos,512,Fantasia,43.99,J.K. Rowling,Rocco,12,7,Livro novo com capa dura.
+A Seleção,480,Ci�ncias biol�gicas,45.00,Charles Darwin,Editora Unesp,5,0,livro novo com capa comum.
+Admirável Mundo Novo,96,Fic��o infantojuvenil,28.39,Antoine de Saint-Exup�ry,Agir,9,0,Livro novo com capa comum.
+As Crônicas de Nárnia: A Cadeira de Prata,288,Romance,29.90,Jonh Green,Intr�nseca,22,0,Livro novo com capa comum.
+As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada,400,Fantasia infantojuvenil,34.90,Rick Riordan,Intr�nseca,6,1,Livro novo capa comum.
+As Crônicas de Nárnia: A Última Batalha,304,Fantasia infantojuvenil,41.80,Rick Riordan,Intr�nseca,8,2,Livro novo capa comum.
+As Crônicas de Nárnia: O Cavalo e seu Menino,336,Fantasia infantojuvenil,43.10,Rick Riordan,Intr�nseca,10,3,Livro novo capa comum.
+As Crônicas de Nárnia: O Leão a Feiticeira e o Guarda-roupa,576,Fantasia �pica,59.90,J.R.R. Tolkien,Martins Fontes,5,1,Livro novo com capa comum.
+As Crônicas de Nárnia: O Sobrinho do Mago,380,Fantasia �pica,79.90,J.R.R. Tolkien,Martins Fontes,7,2,Livro novo com capa comum.
+As Crônicas de Nárnia: Príncipe Caspian,450,Fantasia �pica,65.40,J.R.R. Tolkien,Martins Fontes,8,3,Livro novo com capa comum.
+Aurora nas Sombras,152,Fic��o pol�tica,24.90,George Orwell,Companhia das Letras,4,0,Livro novo com capa comum.
+Cem Anos de Solidão,864,Romance de cavalaria,120.00,Miguel de Cervantes,Editora Garnier,5,0,Livro edi��o de luxo com capa dura.
+Corte de Asas e Ruina,448,Realismo m�gico,34.90,Gabriel Garc�a M�rquez,Record,6,0,Livro novo com capa comum.
+Corte de Chamas Prateadas,364,Romance,28.90,Harper Lee,Jos� Olympio,7,0,Livro novo com capa comum.
+Corte de Espinhos e Rosas,416,Romance cl�ssico,32.90,Jane Austen,Martin Claret,9,0,Livro novo com capa comum.
+Corte de Nevoa e Furia,1030,Romance modernista,59.90,James Joyce,Penguin Companhia,4,0,Livro novo com capa comum.
+Crime e Castigo,704,Aventura mar�tima,42.90,Herman Melville,Zahar,2,0,Livro novo com capa comum.
+Dom Casmurro,424,Epopeia,31.90,Homero,Penguin Companhia,5,0,Livro novo com capa dura.
+Dom Quixote,704,Poesia �pica,39.90,Dante Alighieri,Nova Fronteira,6,0,Livro novo com capa comum.
+Duna,224,Romance,27.90,J.D. Salinger,Editora do Autor,8,0,Livro novo com capa comum.
+Em Chamas,256,Romance filos�fico,29.90,Franz Kafka,Companhia das Letras,4,0,Livro novo com capa comum.
+Ensaio Sobre a Cegueira,168,Fic��o,22.90,Franz Kafka,Companhia das Letras,3,0,Livro novo com capa comum.
+Filhos de Duna,416,Romance g�tico,32.90,Emily Bront�,Martin Claret,5,0,Livro novo com capa comum.
+Funda��o,976,Romance filos�fico,59.90,Thomas Mann,Companhia das Letras,3,0,Livro novo com capa dura.
+Funda��o e Imp�rio,88,Romance contempor�neo,19.90,Clarice Lispector,Rocco,8,0,Livro novo com capa comum.
+Funda��o e Terra,480,Drama hist�rico,36.90,Markus Zusak,Intr�nseca,7,0,Livro novo com capa comum.
+Grande Sert�o: Veredas,472,Suspense,33.90,Dan Brown,Arqueiro,12,0,Livro novo com capa comum.
+Harry Potter e a C�mara Secreta,240,Romance hist�rico,29.90,Nathaniel Hawthorne,Martin Claret,15,0,Livro novo com capa comum.
+Harry Potter e a Ordem da F�nix,288,Mist�rio,31.90,Agatha Christie,HarperCollins,7,0,Livro novo com capa comum.
+Harry Potter e a Pedra Filosofal,616,Romance brasileiro,36.90,Jo�o Guimar�es Rosa,Nova Fronteira,6,0,Livro novo com capa comum.
+Harry Potter e as Rel�quias da Morte,448,Romance modernista,33.90,William Faulkner,Companhia das Letras,10,0,Livro novo com capa comum.
+Harry Potter e o C�lice de Fogo,312,Romance dist�pico,29.90,Jos� Saramago,Companhia das Letras,5,0,Livro novo com capa comum.
+Harry Potter e o Enigma do Pr�ncipe,1520,Romance de aventura,54.90,Alexandre Dumas,Zahar,9,0,Livro novo com capa comum.
+Harry Potter e o Prisioneiro de Azkaban,363,Fic��o dist�pica,34.99,Kiera Cass,Seguinte,14,1,Livro novo com capa dura.
+Herdeira,360,Fic��o dist�pica,33.10,Kiera Cass,Seguinte,7,2,Livro novo com capa dura.
+Herdeiras de Duna,352,Fic��o dist�pica,33.50,Kiera Cass,Seguinte,10,3,Livro novo com capa dura.
+Hereges de Duna,100,Fic��o dist�pica,25.99,Kiera Cass,Seguinte,8,4,Livro novo com capa dura.
+Hist�ria da Alimenta��o,312,Fic��o dist�pica,24.90,Kiera Cass,Seguinte,6,5,Livro novo com capa dura.
+Il�ada,704,Poesia �pica,42.90,Homero,SESI-SP,5,0,Livro novo com capa comum.
+Imperador Deus de Duna,312,Distopia,29.90,Aldous Huxley,Globo Livros,3,0,Livro novo com capa comum.
+It: A Coisa,352,Biografia,45.90,Anne Frank,Record,20,0,Livro novo com capa comum.
+Jogos Vorazes,128,Fic��o,56.12,Ernest Hemingway,Bertrand Brasil,5,0,Livro novo com capa comum.
+Limites da Funda��o,192,Fantasia,59.90,C.S. Lewis,HarperCollins,7,1,Livro edi��o de luxo com capa dura.
+Messias de Duna,192,Fantasia,39.90,C.S. Lewis,HarperCollins,5,2,Livro edi��o de luxo com capa dura.
+Moby Dick,224,Fantasia,46.10,C.S. Lewis,HarperCollins,10,3,Livro edi��o de luxo com capa dura.
+Morte no Nilo,224,Fantasia,39.90,C.S. Lewis,HarperCollins,8,4,Livro edi��o de luxo com capa dura.
+O Apanhador no Campo de Centeio,240,Fantasia,37.44,C.S. Lewis,HarperCollins,12,5,Livro edi��o de luxo com capa dura.
+O Conde de Monte Cristo,240,Fantasia,39.90,C.S. Lewis,HarperCollins,9,6,Livro edi��o de luxo com capa dura.
+O C�digo da Vinci,224,Fantasia,59.90,C.S. Lewis,HarperCollins,15,7,Livro edi��o de luxo com capa dura.
+O Di�rio de Anne Frank,320,Romance �pico,50.67,Isaac Asimov,Editora Aleph,12,1,Livro novo com capa comum.
+O Morro dos Ventos Uivantes,328,Romance �pico,38.99,Isaac Asimov,Editora Aleph,5,2,Livro novo com capa comum.
+O Pequeno Pr�ncipe,304,Romance �pico,41.65,Isaac Asimov,Editora Aleph,6,3,Livro novo com capa comum.
+O Processo,464,Romance �pico,35.99,Isaac Asimov,Editora Aleph,7,4,Livro novo com capa comum.
+O Senhor dos An�is: A Sociedade do Anel,520,Romance �pico,38.99,Isaac Asimov,Editora Aleph,4,5,Livro novo com capa comum.
+O Senhor dos An�is: As Duas Torres,512,Romance �pico,38.99,Isaac Asimov,Editora Aleph,9,6,Livro novo com capa comum.
+O Senhor dos An�is: O Retorno do Rei,448,Romance �pico,35.99,Isaac Asimov,Editora Aleph,10,7,Livro novo com capa comum.
+O Sol � Para Todos,680,Fic��o,36.09,Frank Herbert,Editora Aleph,6,1,Livro novo com capa comum e brinde.
+O Som e a F�ria,272,Fic��o,47.99,Frank Herbert,Editora Aleph,4,2,Livro novo com capa dura.
+O Velho e o Mar,528,Fic��o,69.48,Frank Herbert,Editora Aleph,10,3,Livro novo com capa comum.
+Odisseia,512,Fic��o,48.99,Frank Herbert,Editora Aleph,9,4,Livro novo com capa dura.
+Orgulho e Preconceito,568,Fic��o,48.90,Frank Herbert,Editora Aleph,15,5,Livro novo com capa dura.
+Origens da Funda��o,528,Fic��o,48.99,Frank Herbert,Editora Aleph,7,6,Livro novo com capa dura.
+Os C�digos do Milh�o,752,Fantasia,63.80,Diana Gabaldon,Editora Arqueiro,12,1,Livro novo com capa comum.
+Os Instrumentos Mortais: Cidade das Almas Perdidas,880,Fantasia,53.90,Diana Gabaldon,Editora Arqueiro,18,2,Livro novo com capa comum.
+Os Instrumentos Mortais: Cidade das Cinzas,992,Fantasia,64.90,Diana Gabaldon,Editora Arqueiro,7,3,Livro novo com capa comum.
+Os Instrumentos Mortais: Cidade de Vidro,880,Fantasia,55.90,Diana Gabaldon,Editora Arqueiro,16,4,Livro novo com capa comum.
+Os Instrumentos Mortais: Cidade do Fogo Celestial,1120,Fantasia,74.99,Diana Gabaldon,Editora Arqueiro,14,5,Livro novo com capa comum.
+Os Instrumentos Mortais: Cidade dos Anjos Ca�dos,1168,Fantasia,33.25,Diana Gabaldon,Editora Arqueiro,12,6,Livro novo com capa comum.
+Os Instrumentos Mortais: Cidade dos Ossos,912,Fantasia,67.43,Diana Gabaldon,Editora Arqueiro,8,7,Livro novo com capa comum.
+Os Miser�veis,896,Fantasia,61.10,Diana Gabaldon,Editora Arqueiro,5,8,Livro novo com capa comum.
+Outlander: A Cruz de Fogo,400,Fic��o de aventura,46.12,Suzanne Collins,Rocco,19,1,Livro novo com capa comum.
+Outlander: A Lib�lula no Âmbar,416,Fic��o de aventura,37.42,Suzanne Collins,Rocco,15,2,Livro novo com capa comum.
+Outlander: A Viajante do Tempo,424,Fic��o de aventura,34.40,Suzanne Collins,Rocco,13,3,Livro novo com capa comum.
+Outlander: Ecos do Futuro,576,Fic��o de aventura,58.81,Suzanne Collins,Rocco,15,4,Livro novo com capa comum.
+Outlander: Escrito com o Sangue do meu Cora��o,288,Fic��o juvenil,27.99,Leigh Bardugo,Planeta Minotauro,9,1,Livro novo com capa comum.
+Outlander: O Resgate no Mar,352,Fic��o juvenil,32.90,Leigh Bardugo,Planeta Minotauro,12,2,Livro novo com capa comum.
+Outlander: Os Tambores do Outono,336,Fic��o juvenil,26.99,Leigh Bardugo,Planeta Minotauro,15,3,Livro novo com capa comum.
+Outlander: Um Sopro de Neve e Cinzas,462,Fantasia urbana,25.80,Cassandra Clare,Galera,24,1,Livro novo com capa comum.
+Percy Jackson e os Olimpianos: A maldi��o do tit�,448,Fantasia urbana,34.99,Cassandra Clare,Galera,12,2,Livro novo com capa comum.
+Percy Jackson e os Olimpianos: O Ladr�o de Raios,476,Fantasia urbana,31.99,Cassandra Clare,Galera,7,3,Livro novo com capa comum.
+Percy Jackson e os Olimpianos: O mar de monstros,364,Fantasia urbana,33.80,Cassandra Clare,Galera,20,4,Livro novo com capa comum.
+Prel�dio � Funda��o,434,Fantasia urbana,29.80,Cassandra Clare,Galera,15,5,Livro novo com capa comum.
+Ru�na e Ascens�o,532,Fantasia urbana,32.70,Cassandra Clare,Galera,11,6,Livro novo com capa comum.
+Segunda Funda��o,1511,Trag�dia,112.17,Victor Hugo,Martin Claret,33,0,Livro novo com capa dura.
+Sol e Tormenta,208,Administra��o,120.00,Pablo Mar�al,Camelot Editora,9,0,Livro novo com capa comum e marcador de p�gina.
+Sombra e Ossos,1104,Terror,67.50,Stephen King,Suma,5,0,Livro novo com capa comum.
+Ulisses,96,Terror,64.90,Fabien Vehlmann & Kerasco�t,Darkside,8,0,Livro novo com capa dura.
